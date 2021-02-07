@@ -73,7 +73,7 @@ body {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    background: yellow;
+    background: lightgray;
 }
 
 .inner-form .input-field.first-wrap input {
